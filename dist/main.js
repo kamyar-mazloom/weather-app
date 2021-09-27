@@ -6,3 +6,5 @@ searchBtn.addEventListener("click",searchCity)
 
 let unit = document.getElementById("togglePortion")
 unit.addEventListener("click",tempUnitChange)
+
+
