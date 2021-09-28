@@ -1,4 +1,4 @@
-### WEATHER APP
+# WEATHER APP
 
 This project is part of [the Odin Project](https://www.theodinproject.com/)'s Javascript curriculum. 
 
