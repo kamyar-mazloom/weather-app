@@ -10,3 +10,5 @@ API used:
 - [OpenWeather](https://openweathermap.org/)
 
 [Live Demo](https://kamyar-mazloom.github.io/weather-app/) :point_left:
+
+![Weather App Demo](demo/weather-app-demo.gif)
