@@ -11,4 +11,4 @@ API used:
 
 [Live Demo](https://kamyar-mazloom.github.io/weather-app/) :point_left:
 
-![Weather App Demo](demo/weather-app-demo.gif)
+![Weather App Demo](Demo/weather-app-demo.gif)
