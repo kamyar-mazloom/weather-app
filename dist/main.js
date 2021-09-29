@@ -1,5 +1,5 @@
-import{searchCity} from '/src/searchCity.js'
-import{tempUnitChange} from '/src/tempUnitChange.js'
+import{searchCity} from './searchCity.js'
+import{tempUnitChange} from './tempUnitChange.js'
 
 let searchBtn = document.getElementById("searchBtn")
 searchBtn.addEventListener("click",searchCity)

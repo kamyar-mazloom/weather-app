@@ -1,4 +1,4 @@
-import{updateWeather} from '/src/updateWeather.js'
+import{updateWeather} from './updateWeather.js'
 
 function getWeather(city){
 

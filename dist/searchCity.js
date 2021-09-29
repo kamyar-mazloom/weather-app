@@ -1,4 +1,4 @@
-import{getWeather} from '/src/getWeather.js'
+import{getWeather} from './getWeather.js'
 
 function searchCity(){
     if(document.getElementById("searchBar").value.length !==0){
